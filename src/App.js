@@ -1,10 +1,11 @@
+import Header from "./components/Header";
 
 
-function App () {
+const App = () => {
 
     return (
-        <div className="App">
-            <h1>Task Tracker</h1>
+        <div className='container'>
+            <Header />
         </div>
     );
 }
