@@ -1,8 +1,10 @@
-function App() {
+
+
+function App () {
+
     return (
         <div className="App">
-            <h1>Hello from react</h1>
-            <h2>hello</h2>
+            <h1>Task Tracker</h1>
         </div>
     );
 }
